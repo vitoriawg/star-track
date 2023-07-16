@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976723828420",
+    "project_id": "flutter---fit-tracker",
+    "storage_bucket": "flutter---fit-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976723828420:android:462bdbcf7771313adeb391",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976723828420-ts1i54jlh91n4f38231djvgs2vbuggab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCk-sv92GadMvoyx9NMI7W_A2ihBcXgcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976723828420-ts1i54jlh91n4f38231djvgs2vbuggab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
